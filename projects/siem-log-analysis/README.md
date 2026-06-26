@@ -10,8 +10,8 @@
 
 ## What I Did
 1. [ Set up a Linux virtual machine to act as the monitored host]
-2. [2. Installed and configured Wazuh manager and agent]
-3. [3. Verified that authentication logs are being collected in the SIEM]
+2. [ Installed and configured Wazuh manager and agent]
+3. [. Verified that authentication logs are being collected in the SIEM]
 4. [Created a basic detection rule for repeated failed login attempts (in progress)]
 
 ## Skills Demonstrated
