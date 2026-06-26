@@ -8,3 +8,9 @@
 ----------
 |SIEM implementation and log analysis
 |network traffic monitoring and attack detection
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [SIEM Log Analysis Lab](./projects/siem-log-analysis/) | SIEM lab write-up — log ingestion, detection, and investigation |
