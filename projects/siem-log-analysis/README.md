@@ -1,7 +1,7 @@
 # SIEM Log Analysis Lab
 
 ## Overview
-[FILL IN: 1–2 senteI am building a home SIEM lab to collect security logs from a Linux system and practice investigating suspicious activity. This project focuses on log ingestion, basic detection, and alert triage.nces. Example: "Built a small SIEM lab to collect security logs and investigate suspicious activity."]
+[I am building a home SIEM lab to collect security logs from a Linux system and practice investigating suspicious activity. This project focuses on log ingestion, basic detection, and alert triage.nces. Example: "Built a small SIEM lab to collect security logs and investigate suspicious activity."]
 
 ## Tools Used
 - wazuh
